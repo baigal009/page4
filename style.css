@@ -1,0 +1,89 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.slider{
+	height: 85vh;
+	background-image: url(img/images13.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.maindiv{
+	height: 85vh;
+	background-color: rgba(0, 0, 0, 0.6);
+}
+.navbar{
+	background-color: rgba(0, 0, 0, 0.5);
+}
+h3{
+	color: blue;
+	
+}
+.nav-link{
+	color: white;
+}
+.inner{
+	position: absolute;
+	text-align: center;
+	top: 220px;
+	width: 100%;
+
+}
+.inner h2{
+	font-size: 35px;
+	color: white;
+	letter-spacing: 2px;
+}
+.inner p{
+	color: white;
+	font-size:23px;
+}
+.btn0:hover{
+	background-color: transparent;
+}
+.divv{
+
+}
+.outer{
+	background-color: lightgray;
+	text-align: center;
+}
+.outer h1{
+	letter-spacing: 2px;
+}
+.third{
+	margin: auto;
+
+}
+
+
+.div-1 img{
+	height: 350px;
+	width: 100%;
+	object-fit: cover;
+
+
+}
+.div-2 img{
+	height: 350px;
+	width: 100%;
+	object-fit: cover;
+
+
+}
+.btn1{
+	width: 200px;
+	height: 45px;
+	margin: auto;
+}
+
+.btn1:hover{
+	background-color: transparent;
+	color: black;
+}
+.btn2{
+	width: 200px;
+	height: 45px;
+	margin: auto;
+
+}
